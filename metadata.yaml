@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32078
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Pangborn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26536#The-Good-Neighbors
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-09-05'
 gutenberg_type: Text
