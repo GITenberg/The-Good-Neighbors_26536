@@ -1,0 +1,30 @@
+_repo: The-Good-Neighbors_26536
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pangborn, Edgar
+    birthdate: 1909
+    deathdate: 1976
+    gutenberg_agent_id: '32078'
+    url: http://www.gutenberg.org/2009/agents/32078
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Pangborn
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26536'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: The Good Neighbors
+url: http://www.gutenberg.org/ebooks/26536
